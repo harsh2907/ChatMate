@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1036229893064",
+    "project_id": "signal-clone-e2653",
+    "storage_bucket": "signal-clone-e2653.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036229893064:android:6ee8f5f8d8be9d5c7b7efd",
+        "android_client_info": {
+          "package_name": "com.example.signalclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036229893064-bsbjq1mkj9srmt9370dvetkd18vjhd51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signalclone",
+            "certificate_hash": "dee70c5bb3f410b9b7c52d41fe7b9e2de8a24564"
+          }
+        },
+        {
+          "client_id": "1036229893064-g6l5v4t03pg750algkbvs7h5ljqq32am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdBMvadX6fv_TiFeFfNqLMkWCqTgxm7EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036229893064-g6l5v4t03pg750algkbvs7h5ljqq32am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
